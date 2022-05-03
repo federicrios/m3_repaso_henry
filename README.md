@@ -15,7 +15,7 @@ Pueden ejecutar el archivo **importamos.sql**
 
 La idea es llenar el **ejercicio.sql**
 
-Para consulta esta el archivo **resuelto.sql** con la solucion
+Para consulta está el archivo **resuelto.sql** con la solución
 
 ## Como lo importamos
 
